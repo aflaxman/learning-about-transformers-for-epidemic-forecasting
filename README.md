@@ -3,7 +3,7 @@
 ## Course Overview
 A streamlined self-study course bridging epidemiological modeling and modern transformer architectures for time series forecasting.
 
-**Meeting Time**: Wednesdays at 1:00 PM  
+**Meeting Time**: Wednesdays 1:05-2:00 PM  
 **Duration**: July 2 - September 3, 2025
 
 ## Course Schedule
@@ -30,7 +30,7 @@ Please complete by July 2:
 1. Set up Python environment (see Tools & Setup section)
 2. Create a GitHub repository for your course work
 3. Download at least one dataset from Project Tycho
-4. Read Week 1's paper (skim is fine for first pass)
+4. Read Week 1's paper
 5. Optional: Watch [But what is a GPT?](https://www.3blue1brown.com/lessons/gpt) by 3Blue1Brown for intuition on decoder-only models
 
 ---
@@ -228,9 +228,10 @@ pip install torch  # or tensorflow
 ---
 
 ## Weekly Time Commitment
-- **Reading**: 1-2 hours
-- **Mini-project**: 3-4 hours
-- **Total**: ~5 hours per week
+- **Reading**: 1-3 hours
+- **Mini-project**: 3-6 hours
+- **Meeting to Discuss**: 1 hour
+- **Total**: 5-10 hours per week
 
 ## Success Tips
 1. Focus on understanding concepts over implementation details
