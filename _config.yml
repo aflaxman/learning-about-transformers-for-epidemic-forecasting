@@ -1,3 +1,40 @@
 title: Transformers for Epidemic Forecasting
-description: A 10-week self-study course.
+description: A 10-week self-study course bridging epidemiological modeling and modern transformer architectures.
 theme: jekyll-theme-minimal
+
+# Plugins for better notebook rendering
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+
+# Enable math rendering
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+
+# Include notebooks in site
+include:
+  - "*.ipynb"
+  - "week-*/*.ipynb"
+
+# Exclude unnecessary files
+exclude:
+  - .gitignore
+  - LICENSE
+  - requirements.txt
+
+# Enable relative links
+relative_links:
+  enabled: true
+  collections: true
+
+# Default layout for markdown files
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
