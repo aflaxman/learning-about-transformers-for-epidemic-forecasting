@@ -1,5 +1,7 @@
 # A 10-Week Effort to Learn About Transformers for Epidemic Forecasting
 
+📖 **[View this course online](https://aflaxman.github.io/learning-about-transformers-for-epidemic-forecasting/){:target="_blank"  rel="noopener"}**
+
 ## Course Overview
 A streamlined self-study course bridging epidemiological modeling and modern transformer architectures for time series forecasting.
 
@@ -31,7 +33,7 @@ Please complete by July 2:
 2. Create a GitHub repository for your course work
 3. Download at least one dataset from Project Tycho
 4. Read Week 1's paper (skim is fine for first pass)
-5. Optional: Watch [But what is a GPT?](https://www.3blue1brown.com/lessons/gpt) by 3Blue1Brown for intuition on decoder-only models
+5. Optional: Watch [But what is a GPT?](https://www.3blue1brown.com/lessons/gpt){:target="_blank"  rel="noopener"} by 3Blue1Brown for intuition on decoder-only models
 
 ---
 
@@ -39,7 +41,7 @@ Please complete by July 2:
 **Wednesday, July 2, 2025 | 1:00 PM**
 
 ### Core Reading
-- **Mathematical Models in Infectious Disease Epidemiology** - [PMC7150075](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150075/)
+- **Mathematical Models in Infectious Disease Epidemiology** - [PMC7150075](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150075/){:target="_blank"  rel="noopener"}
   - Focus on Sections 1-3 (SIR/SEIR models)
 
 ### Mini-Project
@@ -49,7 +51,7 @@ Please complete by July 2:
 - Calculate peak timing and final attack rate
 
 ### Resources
-- [StarSim Examples](https://starsim.org/#examples)
+- [StarSim Examples](https://starsim.org/#examples){:target="_blank"  rel="noopener"}
 
 ---
 
@@ -57,17 +59,17 @@ Please complete by July 2:
 **Wednesday, July 9, 2025 | 1:00 PM**
 
 ### Core Reading
-- **An Overview of Forecast Analysis with ARIMA Models during the COVID-19 Pandemic: Methodology and Case Study in Brazil** - [PMC10631421](https://doi.org/10.3390/math11143069)
+- **An Overview of Forecast Analysis with ARIMA Models during the COVID-19 Pandemic: Methodology and Case Study in Brazil** - [PMC10631421](https://doi.org/10.3390/math11143069){:target="_blank"  rel="noopener"}
   - Focus on ARIMA section
 
 ### Mini-Project
 **Flu Forecasting with ARIMA**
-- Download influenza data from [Project Tycho](https://www.tycho.pitt.edu/)
+- Download influenza data from [Project Tycho](https://www.tycho.pitt.edu/){:target="_blank"  rel="noopener"}
 - Fit ARIMA model to one state's data
 - Make 4-week ahead forecasts
 
 ### Resources
-- [How to Create an ARIMA Model for Time Series Forecasting in Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/)
+- [How to Create an ARIMA Model for Time Series Forecasting in Python](https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/){:target="_blank"  rel="noopener"}
 
 ---
 
@@ -75,7 +77,7 @@ Please complete by July 2:
 **Wednesday, July 16, 2025 | 1:00 PM**
 
 ### Core Reading
-- **The Illustrated Transformer** - [Jay Alammar's Blog](https://jalammar.github.io/illustrated-transformer/)
+- **The Illustrated Transformer** - [Jay Alammar's Blog](https://jalammar.github.io/illustrated-transformer/){:target="_blank"  rel="noopener"}
 
 ### Mini-Project
 **Attention Visualization**
@@ -88,7 +90,7 @@ Please complete by July 2:
 **Wednesday, July 23, 2025 | 1:00 PM**
 
 ### Core Reading
-- **Decoder-Only Transformers: The Workhorse of Generative LLMs** - [Cameron Wolfe](https://cameronrwolfe.substack.com/p/decoder-only-transformers-the-workhorse)
+- **Decoder-Only Transformers: The Workhorse of Generative LLMs** - [Cameron Wolfe](https://cameronrwolfe.substack.com/p/decoder-only-transformers-the-workhorse){:target="_blank"  rel="noopener"}
 
 ### Mini-Project
 **Autoregressive Generation for Time Series**
@@ -113,7 +115,7 @@ print(causal_mask)  # Lower triangular matrix
 **Wednesday, July 30, 2025 | 1:00 PM**
 
 ### Core Reading
-- **Probabilistic Time Series Forecasting with Transformers** - [Hugging Face Blog](https://huggingface.co/blog/time-series-transformers)
+- **Probabilistic Time Series Forecasting with Transformers** - [Hugging Face Blog](https://huggingface.co/blog/time-series-transformers){:target="_blank"  rel="noopener"}
 
 ### Mini-Project
 **First Transformer Forecast**
@@ -132,7 +134,7 @@ from transformers import TimeSeriesTransformerForPrediction
 **Wednesday, August 6, 2025 | 1:00 PM**
 
 ### Core Reading
-- **Chronos: Learning the Language of Time Series** - [arXiv:2403.07815](https://arxiv.org/abs/2403.07815)
+- **Chronos: Learning the Language of Time Series** - [arXiv:2403.07815](https://arxiv.org/abs/2403.07815){:target="_blank"  rel="noopener"}
   - Focus on Sections 1-3 and 5
 
 ### Mini-Project
@@ -153,7 +155,7 @@ pipeline = ChronosPipeline.from_pretrained("amazon/chronos-t5-tiny")
 **Wednesday, August 13, 2025 | 1:00 PM**
 
 ### Core Reading
-- **PandemicLLM Overview** - [arXiv:2404.06962](https://arxiv.org/abs/2404.06962)
+- **PandemicLLM Overview** - [arXiv:2404.06962](https://arxiv.org/abs/2404.06962){:target="_blank"  rel="noopener"}
   - Read abstract and methods section
 
 ### Mini-Project
@@ -168,7 +170,7 @@ pipeline = ChronosPipeline.from_pretrained("amazon/chronos-t5-tiny")
 **Wednesday, August 20, 2025 | 1:00 PM**
 
 ### Core Reading
-- **A Review of Graph Neural Networks in Epidemic Modeling** - [doi:10.1145/3637528.3671455](https://dl.acm.org/doi/abs/10.1145/3637528.3671455)
+- **A Review of Graph Neural Networks in Epidemic Modeling** - [doi:10.1145/3637528.3671455](https://dl.acm.org/doi/abs/10.1145/3637528.3671455){:target="_blank"  rel="noopener"}
   - Focus on the model architecture section
 
 ### Mini-Project
@@ -183,7 +185,7 @@ pipeline = ChronosPipeline.from_pretrained("amazon/chronos-t5-tiny")
 **Wednesday, August 27, 2025 | 1:00 PM**
 
 ### Core Reading
-- **KernelSynth Section from Chronos Paper** - [arXiv:2403.07815](https://arxiv.org/abs/2403.07815)
+- **KernelSynth Section from Chronos Paper** - [arXiv:2403.07815](https://arxiv.org/abs/2403.07815){:target="_blank"  rel="noopener"}
   - Section 4.2 only
 
 ### Mini-Project
@@ -198,7 +200,7 @@ pipeline = ChronosPipeline.from_pretrained("amazon/chronos-t5-tiny")
 **Wednesday, September 3, 2025 | 1:00 PM**
 
 ### Core Reading
-- **Fine-tuning Conceptual Guide** - [Hugging Face PEFT Docs](https://huggingface.co/docs/peft/index)
+- **Fine-tuning Conceptual Guide** - [Hugging Face PEFT Docs](https://huggingface.co/docs/peft/index){:target="_blank"  rel="noopener"}
   - Just the conceptual guide
 
 ### Mini-Project
@@ -237,7 +239,7 @@ pip install torch  # or tensorflow
 2. Start simple - you can always add complexity
 3. Document your learning journey
 4. Share your work (slack, GitHub, blog posts)
-5. Join communities ([Hugging Face Forums](https://discuss.huggingface.co/))
+5. Join communities ([Hugging Face Forums](https://discuss.huggingface.co/){:target="_blank"  rel="noopener"})
 6. Pay special attention to Week 4 - decoder-only architectures are crucial for modern LLMs
 
 
