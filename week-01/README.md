@@ -19,7 +19,13 @@
 ## 📓 Notebooks
 
 - **[SEIR Simulator](seir_simulator.ipynb)** - Complete implementation, analysis, and visualization
-  
+
+## ☁️ Run in Google Colab
+
+**Try it now without any installation:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/abie/learning-about-transformers-for-epidemic-forecasting/blob/main/week-01/seir_simulator.ipynb)
+
+Google Colab provides a convenient cloud-based environment where you can run the SEIR simulator immediately without installing Python, Jupyter, or any dependencies on your local machine. Simply click the badge above to open the notebook in Colab, and all required packages will be installed automatically when you run the cells.
+
 ## 🚀 Quick Start
 
 ```bash
