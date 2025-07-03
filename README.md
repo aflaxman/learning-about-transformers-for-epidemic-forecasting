@@ -38,6 +38,8 @@ Please complete by July 2:
 ## Week 1: Epidemiological Foundations
 **Wednesday, July 2, 2025 | 1:00 PM**
 
+📁 **[Week 1 Materials & Instructions](week-01/README.md)**
+
 ### Core Reading
 - **Mathematical Models in Infectious Disease Epidemiology** - [PMC7150075](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7150075/){:target="_blank"  rel="noopener"}
   - Focus on Sections 1-3 (SIR/SEIR models)
