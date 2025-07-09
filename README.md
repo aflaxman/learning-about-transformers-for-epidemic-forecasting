@@ -58,6 +58,8 @@ Please complete by July 2:
 ## Week 2: Time Series Fundamentals
 **Wednesday, July 9, 2025 | 1:00 PM**
 
+📁 **[Week 2 Materials & Instructions](week-02/README.md)**
+
 ### Core Reading
 - **An Overview of Forecast Analysis with ARIMA Models during the COVID-19 Pandemic: Methodology and Case Study in Brazil** - [PMC10631421](https://doi.org/10.3390/math11143069){:target="_blank"  rel="noopener"}
   - Focus on ARIMA section
