@@ -1,3 +1,8 @@
+Move to week 3 file:
+https://colab.research.google.com/drive/1QYSlahOkqKKHBZN1-F_KzbHzXsM1cxD1?usp=sharing
+https://www.youtube.com/watch?v=eMlx5fFNoYc
+
+
 # A 10-Week Effort to Learn About Transformers for Epidemic Forecasting
 
 📖 **[View this course online](https://aflaxman.github.io/learning-about-transformers-for-epidemic-forecasting/){:target="_blank"  rel="noopener"}**
@@ -168,18 +173,18 @@ pipeline = ChronosPipeline.from_pretrained("amazon/chronos-t5-tiny")
 
 ---
 
-## Week 8: Spatial Patterns
+## Week 8: Time Series from Tables
 **Wednesday, August 20, 2025 | 1:00 PM**
 
 ### Core Reading
-- **A Review of Graph Neural Networks in Epidemic Modeling** - [doi:10.1145/3637528.3671455](https://dl.acm.org/doi/abs/10.1145/3637528.3671455){:target="_blank"  rel="noopener"}
-  - Focus on the model architecture section
+- **From Tables to Time: How TabPFN-v2 Outperforms Specialized Time Series Forecasting Models** - [doi.org:10.48550/arXiv.2501.02945](https://doi.org/10.48550/arXiv.2501.02945){:target="_blank"  rel="noopener"}
+  - SoTA time series forecasts in Jan 2025, still in the top tier of [GIFT-Eval](https://huggingface.co/spaces/Salesforce/GIFT-Eval)
 
 ### Mini-Project
-**Multi-Region Forecasting**
-- Use 5 neighboring states/countries
-- Create simple adjacency matrix
-- Apply Chronos independently vs. with spatial features
+**Compare on epidemics**
+- Use 5 states/countries
+- Use 2 disease signals
+- Apply Chronos, PandemicLLM, TabPFN, and compare results
 
 ---
 
