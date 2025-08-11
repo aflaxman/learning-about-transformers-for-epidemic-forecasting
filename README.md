@@ -156,6 +156,8 @@ from chronos import ChronosPipeline
 pipeline = ChronosPipeline.from_pretrained("amazon/chronos-t5-tiny")
 ```
 
+See also https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-chronos.html
+
 ---
 
 ## Week 7: Beyond Numbers - Text and Time Series
