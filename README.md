@@ -1,8 +1,3 @@
-Move to week 3 file:
-https://colab.research.google.com/drive/1QYSlahOkqKKHBZN1-F_KzbHzXsM1cxD1?usp=sharing
-https://www.youtube.com/watch?v=eMlx5fFNoYc
-
-
 # A 10-Week Effort to Learn About Transformers for Epidemic Forecasting
 
 📖 **[View this course online](https://aflaxman.github.io/learning-about-transformers-for-epidemic-forecasting/){:target="_blank"  rel="noopener"}**
@@ -14,9 +9,9 @@ A streamlined self-study course bridging epidemiological modeling and modern tra
 **Duration**: July 2 - September 3, 2025
 
 ## Course Schedule
-- **Week 1** (July 2): Epidemiological Foundations
-- **Week 2** (July 9): Time Series Fundamentals  
-- **Week 3** (July 16): Understanding Transformers
+- **Week 1** (July 2): [Epidemiological Foundations](week-01/README.md)
+- **Week 2** (July 9): [Time Series Fundamentals](week-02/README.md)
+- **Week 3** (July 16): [Understanding Transformers](week-03/README.md)
 - **Week 4** (July 23): Decoder-Only Transformers (GPT-style)
 - **Week 5** (July 30): Transformers Meet Time Series
 - **Week 6** (August 6): Chronos Foundation Model
@@ -82,6 +77,8 @@ Please complete by July 2:
 
 ## Week 3: Understanding Transformers
 **Wednesday, July 16, 2025 | 1:00 PM**
+
+📁 **[Week 3 Materials & Instructions](week-03/README.md)**
 
 ### Core Reading
 - **The Illustrated Transformer** - [Jay Alammar's Blog](https://jalammar.github.io/illustrated-transformer/){:target="_blank"  rel="noopener"}
