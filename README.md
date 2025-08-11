@@ -21,7 +21,7 @@ A streamlined self-study course bridging epidemiological modeling and modern tra
 - **Week 5** (July 30): Transformers Meet Time Series
 - **Week 6** (August 6): Chronos Foundation Model
 - **Week 7** (August 13): Beyond Numbers - Text and Time Series
-- **Week 8** (August 20): Spatial Patterns
+- **Week 8** (August 20): Time Series from Tables
 - **Week 9** (August 27): Synthetic Data Strategies
 - **Week 10** (September 3): Fine-tuning & Course Wrap-up
 
