@@ -170,6 +170,10 @@ See also https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-chronos.h
 - Use a pre-trained GPT-2 or similar decoder-only model
 - Explore how PandemicLLM uses ordinal classification tokens
 
+### Resources
+- [PandemicLLM GitHub](https://github.com/miemieyanga/PandemicLLM){:target="_blank"  rel="noopener"}
+- [Nature paper](https://www.nature.com/articles/s43588-025-00798-6){:target="_blank"  rel="noopener"}
+
 ---
 
 ## Week 8: Time Series from Tables
