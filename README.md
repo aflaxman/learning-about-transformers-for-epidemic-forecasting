@@ -17,7 +17,7 @@ A streamlined self-study course bridging epidemiological modeling and modern tra
 - **Week 6** (August 6): Chronos Foundation Model
 - **Week 7** (August 13): Beyond Numbers - Text and Time Series
 - **Week 8** (August 20): Time Series from Tables
-- **Week 9** (August 27): Synthetic Data Strategies
+- **Week 9** (August 27): Special secret paper
 - **Week 10** (September 3): Fine-tuning & Course Wrap-up
 
 
@@ -191,18 +191,11 @@ See also https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-chronos.h
 
 ---
 
-## Week 9: Synthetic Data Strategies
+## Week 9: Special Secret Paper
 **Wednesday, August 27, 2025 | 1:00 PM**
 
 ### Core Reading
-- **KernelSynth Section from Chronos Paper** - [arXiv:2403.07815](https://arxiv.org/abs/2403.07815){:target="_blank"  rel="noopener"}
-  - Section 4.2 only
-
-### Mini-Project
-**Generate Synthetic Outbreaks**
-- Create 10 synthetic epidemic curves
-- Vary peak timing and height
-- Train a model on synthetic, test on real data
+- **Paper on Slack**
 
 ---
 
