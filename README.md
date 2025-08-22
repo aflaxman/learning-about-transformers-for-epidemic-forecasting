@@ -206,6 +206,9 @@ See also https://auto.gluon.ai/stable/tutorials/timeseries/forecasting-chronos.h
 - **Fine-tuning Conceptual Guide** - [Hugging Face PEFT Docs](https://huggingface.co/docs/peft/index){:target="_blank"  rel="noopener"}
   - Just the conceptual guide
 
+https://ai.google.dev/gemma/docs/core/huggingface_text_full_finetune
+https://huggingface.co/openai/gpt-oss-120b#fine-tuning
+
 ### Mini-Project
 **Disease-Specific Fine-Tuning**
 - Take pre-trained Chronos-tiny
